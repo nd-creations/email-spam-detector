@@ -1,0 +1,2 @@
+Checked 22 emails | Spam: 18 | Safe: 4
+20 emails | Spam: 15 | Safe: 5
